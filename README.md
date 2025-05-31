@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🏄‍♂️ About Me:
 I'm Simão, a Software Engineering student at the University of Minho, from 🇵🇹 Viana do Castelo, Portugal.
 
 ## 🌐 Socials:
