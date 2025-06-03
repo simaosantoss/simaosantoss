@@ -10,5 +10,8 @@ I'm Simão, a Software Engineering student at the University of Minho, from 🇵
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 # 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=simaosantoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=simaosantoss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+[![Simão Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaosantoss&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=tokyonight)](https://github.com/simaosantoss?tab=repositories) [![Simão Santos's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaosantoss&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=tokyonight)](https://github.com/simaosantoss?tab=repositories)
+
+</div>
