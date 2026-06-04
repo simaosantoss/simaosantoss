@@ -1,5 +1,5 @@
 # 🏄‍♂️ About Me:
-I'm Simão, a Software Engineering student at the University of Minho, from 🇵🇹 Viana do Castelo, Portugal.
+I'm Simão, an Informatics Engineering student at the University of Minho, from 🇵🇹 Viana do Castelo, Portugal.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/simaoprsantos/) 
@@ -11,9 +11,15 @@ I'm Simão, a Software Engineering student at the University of Minho, from 🇵
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)
 
-# 📊 Stats:
-<div align="center">
-  
-[![Simão Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaosantoss&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=tokyonight)](https://github.com/simaosantoss?tab=repositories) [![Simão Santos's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simaosantoss&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=tokyonight)](https://github.com/simaosantoss?tab=repositories)
+# 🚀 Academic Projects:
+Projects developed throughout my Bachelor's degree in Informatics Engineering at the University of Minho.
 
-</div>
+| Project | Course | Year / Semester |
+| --- | --- | --- |
+| [DomiUM](https://github.com/simaosantoss/DomiUM) | Object-Oriented Programming | 2nd year / 2nd semester |
+| [Runner-Orchestrator](https://github.com/simaosantoss/Runner-Orchestrator) | Operating Systems | 2nd year / 2nd semester |
+| [PyPacket-Tracker](https://github.com/simaosantoss/PyPacket-Tracker) | Computer Networks | 2nd year / 2nd semester |
+| [Belium-Viagens](https://github.com/simaosantoss/Belium-Viagens) | Databases | 2nd year / 1st semester |
+| [Flight-Manager](https://github.com/simaosantoss/Flight-Manager) | Informatics Laboratories III | 2nd year / 1st semester |
+| [Hitori-Like](https://github.com/simaosantoss/Hitori-Like) | Informatics Laboratories II | 1st year / 2nd semester |
+| [Immutable-Towers](https://github.com/simaosantoss/Immutable-Towers) | Informatics Laboratories I | 1st year / 1st semester |
