@@ -19,7 +19,7 @@ Projects developed throughout my Bachelor's degree in Informatics Engineering at
 | [DomiUM](https://github.com/simaosantoss/DomiUM) | Object-Oriented Programming | 2nd year / 2nd semester |
 | [Runner-Orchestrator](https://github.com/simaosantoss/Runner-Orchestrator) | Operating Systems | 2nd year / 2nd semester |
 | [PyPacket-Tracker](https://github.com/simaosantoss/PyPacket-Tracker) | Computer Networks | 2nd year / 2nd semester |
-| [RRF-Explorer](https://github.com/simaosantoss/RRF-Explorer) | Human-Computer Interaction (HCI) | 2nd year / 2nd semester |
+| [RRF-Explorer](https://github.com/simaosantoss/RRF-Explorer) | Human-Computer Interaction | 2nd year / 2nd semester |
 | [Belium-Viagens](https://github.com/simaosantoss/Belium-Viagens) | Databases | 2nd year / 1st semester |
 | [Flight-Manager](https://github.com/simaosantoss/Flight-Manager) | Informatics Laboratories III | 2nd year / 1st semester |
 | [Hitori-Like](https://github.com/simaosantoss/Hitori-Like) | Informatics Laboratories II | 1st year / 2nd semester |
